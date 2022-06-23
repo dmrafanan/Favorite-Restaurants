@@ -5,4 +5,5 @@ A list of my favorite places to eat according to their type.\
 
 Technical Overview:\
 UIKit Programmatically\
-Horizontal collection view
+Horizontal collection view\
+Started 2020
